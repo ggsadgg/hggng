@@ -1,0 +1,70 @@
+{
+ "accounts": [
+  {
+   "name": "nitro",
+   "price": 15000,
+   "tax": 15790,
+   "emails": []
+  },
+  {
+   "name": "nitro_3months",
+   "price": 60000,
+   "tax": 63158,
+   "emails": []
+  },
+  {
+   "name": "visa",
+   "price": 10000,
+   "tax": 10527,
+   "emails": []
+  },
+  {
+   "name": "xbox_game_pass_ultimate",
+   "price": 20000,
+   "tax": 21053,
+   "emails": []
+  },
+  {
+   "name": "crunchyroll",
+   "price": 6000,
+   "tax": 6316,
+   "emails": [
+    "Mail: mwierzbanowska05@gmail.com / Pass: Dogo132021",
+    "Mail: alfarisi.1580@gmail.com / Pass: 02februari",
+    "Mail: carlosreyesjimenez2@gmail.com / Pass: hoty1234"
+   ]
+  },
+  {
+   "name": "netflix",
+   "price": 10000,
+   "tax": 10527,
+   "emails": []
+  },
+  {
+   "name": "spotify",
+   "price": 5000,
+   "tax": 5264,
+   "emails": [
+    "Mail: smjov@comcast.net / Pass: Scruffy7",
+    "Mail: fanny_apa_95@hotmail.com / Pass: Tsnigel11",
+    "Mail: natashanatal@uol.com.br / Pass: Nati@212121",
+    "Mail: agatadory@interia.pl / Pass: Telefon21!"
+   ]
+  },
+  {
+   "name": "steam",
+   "price": 2500,
+   "tax": 2632,
+   "emails": []
+  }
+ ],
+ "admins": [
+  "963878764851384351"
+ ],
+ "ch": "980620651226361866",
+ "notif": "448597666658779146",
+ "blacklist": [],
+ "buy": "all",
+ "status": "open",
+ "prefix": "+"
+}
